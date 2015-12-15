@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wang.chunyu.me.testfacedetection.FacesDisplayView
+    android:id="@+id/main_fdv_face_detector"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
