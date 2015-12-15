@@ -6,7 +6,7 @@ Google推出了官方的人脸检测功能, 很不幸依赖Google Service, 需�
 
 我讲解一下用法, 写了一个简单的显示控件, 注释详细.
 
-![效果](http://upload-images.jianshu.io/upload_images/749674-c98a4dd59dd3a5e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![效果](http://img.blog.csdn.net/20151215214906019)
 
 ### 1. 配置项目
 新建HelloWorld项目, 配置``build.gradle``.
@@ -298,6 +298,10 @@ public class ShowFaceFragment extends Fragment {
 
 > 注意使用注释(Annotation), 判断资源类型, 如``@RawRes``.
 
-![动画](http://upload-images.jianshu.io/upload_images/749674-05d39dea8c10db1c.gif?imageMogr2/auto-orient/strip)
+![动画](http://img.blog.csdn.net/20151215214950662)
+
+Github[下载地址](https://github.com/SpikeKing/TestFaceDetection)
+
+有时间再完善一下这个小控件吧.
 
 OK, Enjoy It.
