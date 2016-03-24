@@ -1,6 +1,7 @@
 # TestFaceDetection
-
 实现检测人脸功能的控件
+
+> 欢迎Follow我的[GitHub](https://github.com/SpikeKing)
 
 博客: http://www.wangchenlong.org/
 
